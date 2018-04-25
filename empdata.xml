@@ -2,82 +2,62 @@
   <employees>
     <data>
       <name>Aa</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <hobby>Sleeping</hobby>
+      <marriage>Y</marriage>
+      <location>Cap hill</location>
     </data>
     <data>
       <name>Bb</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <hobby>Drinking</hobby>
+      <marriage>N</marriage>
+      <location>Bellton</location>
     </data>
     <data>
       <name>Cc</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <hobby>Swimming</hobby>
+      <marriage>N</marriage>
+      <location>Cap hill</location>
     </data>
     <data>
       <name>Dd</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <hobby>Baseball</hobby>
+      <marriage>N</marriage>
+      <location>Cap hill</location>
     </data>
     <data>
       <name>Ee</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <hobby>Football</hobby>
+      <marriage>Y</marriage>
+      <location>Green lake</location>
     </data>
     <data>
       <name>Ff</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <hobby>Viedo Games</hobby>
+      <marriage>N</marriage>
+      <location>Seattle U</location>
     </data>
     <data>
       <name>Gg</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <hobby>Music</hobby>
+      <marriage>Y</marriage>
+      <location>Kirkland</location>
     </data>
     <data>
       <name>Hh</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <hobby>Movies</hobby>
+      <marriage>N</marriage>
+      <location>Redmond</location>
     </data>
     <data>
       <name>Ii</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <hobby>Singing</hobby>
+      <marriage>Y</marriage>
+      <location>Kenmore</location>
     </data>
     <data>
       <name>Jj</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <hobby>Study</hobby>
+      <marriage>N</marriage>
+      <location>Downtown</location>
     </data>
   </employees>
