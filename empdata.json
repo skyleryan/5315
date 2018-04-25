@@ -3,82 +3,72 @@
     {
       "name": "Michael",
       "age": "1",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "parent": "Jessica",
+      "tuition": "500",
+      "state": "WA"
     },
     {
       "name": "Christopher",
       "age": "2",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "parent": "Ashley",
+      "tuition": "500",
+      "state": "WA"
     },
     {
       "name": "Matthew",
       "age": "3",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "parent": "Emily",
+      "tuition": "500",
+      "state": "NY"
     },
     {
       "name": "Joshua",
       "age": "4",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "parent": "Sarah",
+      "tuition": "500",
+      "state": "WA"
     },
     {
       "name": "Jacob",
       "age": "5",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "parent": "Samantha",
+      "tuition": "500",
+      "state": "AL"
     },
     {
       "name": "Nicholas",
       "age": "6",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "parent": "Amanda",
+      "tuition": "500",
+      "state": "WA"
     },
     {
       "name": "Andrew",
       "age": "7",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "parent": "Brittany",
+      "tuition": "500",
+      "state": "AK"
     },
     {
       "name": "Daniel",
       "age": "8",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "parent": "Elizabeth",
+      "tuition": "500",
+      "state": "CA"
     },
     {
       "name": "Yyler",
       "age": "9",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "parent": "Taylor",
+      "tuition": "100",
+      "state": "AR"
     },
     {
       "name": "Joseph",
       "age": "10",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "parent": "Megan",
+      "tuition": "200",
+      "state": "WA"
     }
   ]
 }
